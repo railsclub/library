@@ -4,3 +4,39 @@
 .center {
   text-align: center;
 }
+
+.container{
+  height: 100vh;
+  width: 100wh;
+  background-color: white;
+  border-bottom: 1px solid grey;
+  height: 3em;
+  margin-left: -10px;
+  margin-right: -10px;
+
+
+}
+#title{
+  font-family: Sans-Serif;
+  font-size: .8em;
+  float: left;
+  margin-left: 10px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: black;
+  margin-top: 5px;
+
+}
+
+#title:hover{
+  color: #ff2160;
+}
+
+.links{
+  text-transform: none;
+  float: right;
+
+}
+.links:hover{
+  color: #ff2160;
+}
